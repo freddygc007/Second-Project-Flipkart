@@ -154,6 +154,12 @@
     background-repeat: no-repeat;
     padding-top: 70px;
 }
+.bg2{
+    background: url(https://rukminim1.flixcart.com/fk-p-flap/278/278/image/898b527fdf29b17a.jpg?q=90);
+    background-position: 0px bottom;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+}
 .bg p{
     font-size: 32px;
     text-align: center;
